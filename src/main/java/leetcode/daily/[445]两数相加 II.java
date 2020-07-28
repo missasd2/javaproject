@@ -19,7 +19,7 @@
 
 
 //leetcode submit region begin(Prohibit modification and deletion)
-package leetcode.leetcode.editor.cn;
+package leetcode.daily;
 
 
 import java.util.Stack;
