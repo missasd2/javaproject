@@ -32,7 +32,8 @@ public class LongestPalindrome_dp2 {
 
             }
 
-
+//            int[] m = {1,2,2,2};
+//            Arrays.
 
         }
         return s.substring(begin, begin+maxLen);

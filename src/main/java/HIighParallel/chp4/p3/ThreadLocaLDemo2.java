@@ -22,7 +22,8 @@ public class ThreadLocaLDemo2 {
         @Override
         public void run() {
             try {
-                // 如果当前线程不持有SimpleDateformat对象实例，就新建一个并把它设置到当前线程中
+                // 如果当前线程不持有SimpleDateformat对象实例，
+                // 就新建一个并把它设置到当前线程中
                 if (tl.get() == null) {
                     tl.set(new SimpleDateFormat("yyyy-MM-dd HH:mm:ss"));;
                 }
