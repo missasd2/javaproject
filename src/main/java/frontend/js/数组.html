@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+        'use strict';
+        var arr = ['Apple', 'pear', 'orange'];
+
+        // every()方法可以判断数组的所有元素是否满足测试条件。
+
+        // true
+        console.log(arr.every(function (s) {
+            return s.length > 0;
+        }));
+        // false
+        console.log(arr.every(function (s) {
+            return s.toLowerCase() === s;
+        }));
+
+        // find()
+        // find()方法用于查找符合条件的第一个元素，如果找到了，返回这个元素，否则，返回undefined：
+        // pear
+        console.log(arr.find(function (s) {
+            if (s.toLowerCase() === s){
+                return true;
+            }
+        }));
+
+        // findIndex()
+        // findIndex()和find()类似，也是查找符合条件的第一个元素，
+        // 不同之处在于findIndex()会返回这个元素的索引，
+        // 如果没有找到，返回-1：
+        console.log(arr.findIndex(function (s) {
+            if (s.toLowerCase() === s){
+                return true;
+            }
+        }))
+
+        //forEach()
+        // forEach()和map()类似，
+        // 它也把每个元素依次作用于传入的函数，
+        // 但不会返回新的数组。
+        // forEach()常用于遍历数组，因此，传入的函数不需要返回值：
+        arr.forEach(console.log); // 依次打印每个元素
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>

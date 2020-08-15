@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+        var obj = {
+            birth : 1990,
+            getAge: function () {
+                var b = this.birth;
+                // 定义无参箭头函数
+                var fn = () => new Date().getFullYear() - this.birth; // this指向obj对象
+                return fn();
+            }
+        };
+         // 30
+        console.log(obj.getAge());
+    </script>
+</head>
+<body>
+
+</body>
+</html>

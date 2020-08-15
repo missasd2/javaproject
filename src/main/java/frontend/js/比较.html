@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+        'use strict';
+
+        // Array的sort()方法默认把所有元素先转换为String再排序
+        // sort()方法会直接对Array进行修改
+        //  [1, 10, 2, 20]
+        console.log([10, 20, 1, 2].sort());
+        //  Apple,Google,Microsoft
+        console.log(['Google', 'Apple', 'Microsoft'].sort().toString());
+
+        // 使用自定义比较函数进行比较
+        // [1, 2, 10, 20]
+        var arr = [10, 20, 1, 2];
+        arr.sort(function (x, y) {
+            if (x < y){
+                return -1;
+            }
+            if (x > y){
+                return  1;
+            }
+            return  0;
+        });
+        console.log(arr);
+
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>

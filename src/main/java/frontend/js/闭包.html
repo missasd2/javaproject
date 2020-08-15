@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+        // 定义求和函数
+        function sum(arr) {
+            return arr.reduce(function (x, y) {
+                return x + y;
+            });
+        }
+        console.log(sum([1,2,3,4,5]));
+
+        // 函数作为返回值
+        function lazy_sum(arr) {
+            // 定义了内部函数he，内部函数可以引用外部函数lazy_sum的参数和局部变量
+            // 当lazy_sum返回内部函数he时，相关参数和变量都保存在返回的函数中；
+            // 当每次调用lazy_sum时，都会返回一个新的函数，即使传入相同的参数；
+            var he = function () {
+                return arr.reduce(function (x, y) {
+                    return x + y;
+                });
+            }
+            return he;
+        }
+        // 调用lazy_sum（）时，返回的是求和函数；
+        var f = lazy_sum([1,2,3,4,5]);
+        // 调用函数f时，才真正计算求和的结果；
+        console.log(f());
+
+        // 闭包
+        function count() {
+            var arr = [];
+            // 每次循环都创建了一个新函数，然后把新建的3个函数都添加到一个Array中返回了
+            for (var i = 0; i < 4 ; i++) {
+                arr.push(function () {
+                    return i * i;
+                });
+            }
+            return arr;
+        }
+        var results = count();
+        var f1 = results[0];
+        var f2 = results[1];
+        var f3 = results[2];
+        // 返回的函数引用了变量i，但它并非立刻执行。
+        // 等到三个函数都返回时，他们所引用的变量i已经变成了4，因此最终结果为16。
+        console.log(f1()); // 16
+        console.log(f2()); // 16
+        console.log(f3()); // 16
+
+
+
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>
