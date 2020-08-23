@@ -62,6 +62,14 @@
             <version>3.4.2</version>
         </dependency>
 
+<!--        algs4-->
+        <!-- https://mvnrepository.com/artifact/edu.princeton.cs/algs4 -->
+        <dependency>
+            <groupId>edu.princeton.cs</groupId>
+            <artifactId>algs4</artifactId>
+            <version>1.0.3</version>
+        </dependency>
+
 
 
 
