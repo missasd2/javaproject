@@ -13,6 +13,7 @@ public class Main {
         ForkJoinPool pool = new ForkJoinPool();
         pool.execute(task);
 
+        // 直到任务结束，每5毫秒在控制台上输出线程池的一些参数值
         do {
             System.out.printf("Main: Thread Count: %d \n", pool.getActiveThreadCount());
             System.out.printf("Main: Thread Steal: %d \n", pool.getStealCount());
