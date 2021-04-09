@@ -5,127 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3af9e47-c2d0-4e04-939a-af7d79b39622" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ArtofConcurrent/chp9/testThreadPoolExecutor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/Behavior/ObserverPattern/Observer_1/BinaryObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/Behavior/ObserverPattern/Observer_1/HexaObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/Behavior/ObserverPattern/Observer_1/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/Behavior/ObserverPattern/Observer_1/ObserverPatternDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/Behavior/ObserverPattern/Observer_1/OctalObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/Behavior/ObserverPattern/Observer_1/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/Behavior/ObserverPattern/dahua/ConcreteNotifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/Behavior/ObserverPattern/dahua/Event.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/Behavior/ObserverPattern/dahua/EventHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/Behavior/ObserverPattern/dahua/Notifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/Behavior/ObserverPattern/dahua/TestDahua.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/Behavior/ObserverPattern/dahua/WatchingTVListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/Behavior/chain/AbstractLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/Behavior/chain/ChainPatternDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/Behavior/chain/ConsoleLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/Behavior/chain/ErrorLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/Behavior/chain/FileLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/Behavior/chain/chain_1/CeoHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/Behavior/chain/chain_1/DirectorHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/Behavior/chain/chain_1/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/Behavior/chain/chain_1/HandlerChain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/Behavior/chain/chain_1/ManagerHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/Behavior/chain/chain_1/Request.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/Builder/Singleton/InnerStatic/Singleton_InnerStatic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/Builder/Singleton/InnerStatic/Singleton_InnerStatic_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/Builder/Singleton/SingleObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/Builder/Singleton/SingleObject_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/Builder/Singleton/SingletonPatternDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/Builder/Singleton/doubleCheck/Singleton_Double.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/Builder/Singleton/doubleCheck/Singleton_Double_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/Builder/Singleton/lazy_safe/Singleton_Lazy_Safe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/Builder/Singleton/lazy_safe/Singleton_Lazy_Safe_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/Builder/Singleton/lazy_unsafe/Singleton_Lazy_Unsafe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/Builder/Singleton/lazy_unsafe/Singleton_Lazy_Unsafe_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/Builder/Singleton/meiju/Singleton_Enum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/Builder/Singleton/meiju/Singleton_Enum_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/Builder/Singleton/starve/Singleton_Starve.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/Structural/Adapter/AdvancedMediaPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/Structural/Adapter/AudioPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/Structural/Adapter/MediaAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/Structural/Adapter/MediaPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/Structural/Adapter/Mp4Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/Structural/Adapter/VlcPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaSE/Serializable/DeSerialTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaSE/Serializable/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaSE/Serializable/SerialTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp12/ChatServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp12/ChatServerInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp12/HttpRequestHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp12/SecureChatServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp12/SecureChatServerInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp12/TextWebSocketFrameHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp13/LogEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp13/LogEventBroadcaster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp13/LogEventDecoder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp13/LogEventEncoder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp13/LogEventHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp13/LogEventMonitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SpringInternals/chp2/IocContainer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exam/bole/Problem3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exam/bole/problem1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exam/genshuixue/problem3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exam/guangdong/Solution1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exam/guangdong/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exam/qianxin/Solution1/Solution1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exam/xingye/Solution1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jcip/annotate/GuardeBy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jcip/annotate/NotThreadSafe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jcip/annotate/ThreadSafe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jcip/chp1/Sequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jcip/chp1/UnsafeSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jcip/chp2/StatelessFactorizer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jcip/chp2/UnsafeCachingFactorizer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jcip/chp3/EventSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jcip/chp3/MutableInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jcip/chp3/NoVisibility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jcip/chp3/OneValueCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jcip/chp3/SynchronizedInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jcip/chp3/ThisEscape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jcip/chp3/UnsafeState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jcip/chp4/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jcip/chp4/MonitorVehicleTracker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jcip/chp4/MutablePoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jcip/chp4/PersonSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jcip/chp4/UserPrivateLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/jindian/chp17/P17_21_Trap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/jindian/chp17/P17_21_Trap_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/jindian/chp17/P17_21_Trap_monotonous.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/jindian/chp17/P17_21_Trap_twoPoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/Math/P781_NumRabbits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/array/P350_Intersect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/array/subset/P90_SubsetsWithDup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/array/subset/P90_SubsetsWithDup_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/array/subset/P90_SubsetsWithDup_Recursive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/bit/P169_majorityElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/bit/P190_ReverseBits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/bit/P190_ReverseBits_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/dfs/P200_NumIslands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/dp/P300_LengthOfLIS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/dp/P300_LengthOfLIS_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/dp/P300_LengthOfLIS_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/search/binarySearch/P74_SearchMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/search/binarySearch/P74_SearchMatrix_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/slidingWindow/P3_LengthOfLongestSubString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/stack/P1006_Clumsy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/tree/P173_BSTIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/tree/P173_BTSIterator_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/tree/P173_BTSIterator_stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/tree/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/unionfindSet/P200_NumIslands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/unionfindSet/P721_accountsMerge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/unionfindSet/UF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/unionfindSet/UF_QuickFind_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/unionfindSet/UnionFind.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/unionfindSet/WeightedQuickUnionUF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pearlsMore/chp1/GetPrime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pearlsMore/chp1/GetPrime_Multiply.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pearlsMore/chp1/GetPrime_Special235.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pearlsMore/chp1/GetPrime_Sqrt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pearlsMore/chp1/GetPrime_SqrtOut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exam/wanmei/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jcip/annotate/Immutable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jcip/chp4/DelegatingVehicleTracker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jcip/chp4/NumberRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jcip/chp4/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jcip/chp4/SafePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/dp/back/BackPack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/search/binarySearch/P154_Search_RotatedSorted_III.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/search/binarySearch/P33_Search_RotatedSorted_I.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../esapi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../esapi/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../foodiedev/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../foodiedev/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../foodiedev/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../foodiedev/.idea/encodings.xml" afterDir="false" />
@@ -316,125 +204,8 @@
       <change beforePath="$PROJECT_DIR$/../foodiedev/foodie-dev-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../foodiedev/foodie-dev-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../foodiedev/foodie-dev-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../foodiedev/foodie-dev-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../foodiedev/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../foodiedev/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Spring_5_2_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Spring_5_2_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp10/ByteToCharDecoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp10/ByteToCharDecoder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp10/CharToByteEncoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp10/CharToByteEncoder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp10/CombinedByteCharCodec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp10/CombinedByteCharCodec.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp10/IntegerToStringDecoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp10/IntegerToStringDecoder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp10/IntegerToStringEncoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp10/IntegerToStringEncoder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp10/MyWebSocketFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp10/MyWebSocketFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp10/SafeByteToMessageDecoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp10/SafeByteToMessageDecoder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp10/ShortToByteEncoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp10/ShortToByteEncoder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp10/ToIntegerDecoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp10/ToIntegerDecoder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp10/ToIntegerDecoder2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp10/ToIntegerDecoder2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp10/WebSocketConvertHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp10/WebSocketConvertHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp11/BinaryFrameHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp11/BinaryFrameHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp11/ChunkedWriteHandlerInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp11/ChunkedWriteHandlerInitializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp11/Cmd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp11/Cmd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp11/CmdDecoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp11/CmdDecoder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp11/CmdHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp11/CmdHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp11/CmdHandlerInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp11/CmdHandlerInitializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp11/ContinuationFrameHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp11/ContinuationFrameHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp11/FileRegionWriteHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp11/FileRegionWriteHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp11/FrameHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp11/FrameHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp11/HeartbeatHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp11/HeartbeatHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp11/HttpAggregatorInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp11/HttpAggregatorInitializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp11/HttpCompressionInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp11/HttpCompressionInitializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp11/HttpPipelineInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp11/HttpPipelineInitializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp11/HttpsCodecInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp11/HttpsCodecInitializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp11/IdleStateHandlerInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp11/IdleStateHandlerInitializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp11/LengthBasedInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp11/LengthBasedInitializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp11/LineBaseHandlerInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp11/LineBaseHandlerInitializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp11/MarshallingInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp11/MarshallingInitializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp11/ObjectHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp11/ObjectHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp11/SslChannelInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp11/SslChannelInitializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp11/TextFrameHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp11/TextFrameHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp11/WebSocketServerInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp11/WebSocketServerInitializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp11/WriteStreamHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp11/WriteStreamHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp4/ChannelOperationExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp4/ChannelOperationExamples.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp4/NettyOioServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp4/NettyOioServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp4/PlainNioServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp4/PlainNioServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp4/PlainOioServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp4/PlainOioServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp5/ByteBufExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp5/ByteBufExamples.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp5/DummyChannelHandlerContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp5/DummyChannelHandlerContext.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp6/DiscardHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp6/DiscardHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp6/DiscardInboundHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp6/DiscardInboundHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp6/DiscardOutboundHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp6/DiscardOutboundHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp6/DummyChannelHandlerContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp6/DummyChannelHandlerContext.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp6/DummyChannelPipeline.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp6/DummyChannelPipeline.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp6/ModifyChannelPipeline.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp6/ModifyChannelPipeline.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp6/SimpleDiscardHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp6/SimpleDiscardHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp6/WriteHandlers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp6/WriteHandlers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp7/EventloopExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp7/EventloopExamples.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp7/ScheduledExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp7/ScheduledExamples.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp8/BootstrapClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp8/BootstrapClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp8/BootstrapClientWithOptionsAndAttrs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp8/BootstrapClientWithOptionsAndAttrs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp8/BootstrapDatagramChannel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp8/BootstrapDatagramChannel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp8/BootstrapServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp8/BootstrapServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp8/BootstrapWithInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp8/BootstrapWithInitializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp8/GracefulShutdown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp8/GracefulShutdown.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp8/InvalidBootstrapClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp8/InvalidBootstrapClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp9/AbsIntegerEncoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp9/AbsIntegerEncoder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp9/AbsIntegerEncoderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp9/AbsIntegerEncoderTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp9/FixedLengthFrameDecoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp9/FixedLengthFrameDecoder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp9/FixedLengthFrameDecoderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp9/FixedLengthFrameDecoderTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp9/FrameChunkDecoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp9/FrameChunkDecoder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Netty/chp9/FrameChunkDecoderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NettyinAction/chp9/FrameChunkDecoderTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Netty/chp4/ChannelOperationExamples$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Netty/chp4/ChannelOperationExamples$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Netty/chp4/ChannelOperationExamples.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Netty/chp4/NettyOioServer$1$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Netty/chp4/NettyOioServer$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Netty/chp4/NettyOioServer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Netty/chp4/PlainNioServer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Netty/chp4/PlainOioServer$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Netty/chp4/PlainOioServer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Netty/chp5/ByteBufExamples.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Netty/chp5/DummyChannelHandlerContext.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Netty/chp6/DiscardHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Netty/chp6/DiscardInboundHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Netty/chp6/DiscardOutboundHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Netty/chp6/DummyChannelHandlerContext$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Netty/chp6/DummyChannelHandlerContext.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Netty/chp6/DummyChannelPipeline.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Netty/chp6/ModifyChannelPipeline$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Netty/chp6/ModifyChannelPipeline$FirstHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Netty/chp6/ModifyChannelPipeline$FourthHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Netty/chp6/ModifyChannelPipeline$SecondHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Netty/chp6/ModifyChannelPipeline$ThirdHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Netty/chp6/ModifyChannelPipeline.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Netty/chp6/SimpleDiscardHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Netty/chp6/WriteHandlers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Netty/chp7/EventloopExamples$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Netty/chp7/EventloopExamples.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Netty/chp7/ScheduledExamples$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Netty/chp7/ScheduledExamples$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Netty/chp7/ScheduledExamples$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Netty/chp7/ScheduledExamples$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Netty/chp7/ScheduledExamples.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Netty/chp8/BootstrapClient$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Netty/chp8/BootstrapClient$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Netty/chp8/BootstrapClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Netty/chp8/BootstrapClientWithOptionsAndAttrs$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Netty/chp8/BootstrapClientWithOptionsAndAttrs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Netty/chp8/BootstrapDatagramChannel$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Netty/chp8/BootstrapDatagramChannel$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Netty/chp8/BootstrapDatagramChannel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Netty/chp8/BootstrapServer$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Netty/chp8/BootstrapServer$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Netty/chp8/BootstrapServer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Netty/chp8/BootstrapWithInitializer$ChannelInitializerImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Netty/chp8/BootstrapWithInitializer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Netty/chp8/GracefulShutdown$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Netty/chp8/GracefulShutdown.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Netty/chp8/InvalidBootstrapClient$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Netty/chp8/InvalidBootstrapClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Netty/chp9/AbsIntegerEncoder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Netty/chp9/AbsIntegerEncoderTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Netty/chp9/FixedLengthFrameDecoder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Netty/chp9/FixedLengthFrameDecoderTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -481,7 +252,8 @@
     </replaceStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -717,13 +489,13 @@
       <recent name="java7ConcurrentProgram.chp2.p3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GetPrime_Multiply">
-    <configuration name="GetPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pearlsMore.chp1.GetPrime" />
+  <component name="RunManager" selected="Application.P154_Search_RotatedSorted_III">
+    <configuration name="BackPack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.tag.dp.back.BackPack" />
       <module name="javaproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pearlsMore.chp1.*" />
+          <option name="PATTERN" value="leetcode.tag.dp.back.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -757,12 +529,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetPrime_Sqrt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pearlsMore.chp1.GetPrime_Sqrt" />
+    <configuration name="P154_Search_RotatedSorted_III" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.tag.search.binarySearch.P154_Search_RotatedSorted_III" />
       <module name="javaproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pearlsMore.chp1.*" />
+          <option name="PATTERN" value="leetcode.tag.search.binarySearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -770,33 +542,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetPrime_SqrtOut" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pearlsMore.chp1.GetPrime_SqrtOut" />
+    <configuration name="Solution1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exam.wanmei.Solution1" />
       <module name="javaproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pearlsMore.chp1.*" />
+          <option name="PATTERN" value="exam.wanmei.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.GetPrime" />
-      <item itemvalue="Application.GetPrime_Sqrt" />
-      <item itemvalue="Application.GetPrime_SqrtOut" />
       <item itemvalue="Application.GetPrime_Special235" />
       <item itemvalue="Application.GetPrime_Multiply" />
+      <item itemvalue="Application.Solution1" />
+      <item itemvalue="Application.BackPack" />
+      <item itemvalue="Application.P154_Search_RotatedSorted_III" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P154_Search_RotatedSorted_III" />
+        <item itemvalue="Application.BackPack" />
+        <item itemvalue="Application.Solution1" />
         <item itemvalue="Application.GetPrime_Multiply" />
         <item itemvalue="Application.GetPrime_Special235" />
-        <item itemvalue="Application.GetPrime_SqrtOut" />
-        <item itemvalue="Application.GetPrime_Sqrt" />
-        <item itemvalue="Application.GetPrime" />
       </list>
     </recent_temporary>
   </component>
@@ -909,6 +694,9 @@
       <workItem from="1617604851765" duration="8178000" />
       <workItem from="1617614673122" duration="604000" />
       <workItem from="1617670499652" duration="13062000" />
+      <workItem from="1617763029277" duration="3720000" />
+      <workItem from="1617868839244" duration="10484000" />
+      <workItem from="1617951693017" duration="1096000" />
     </task>
     <servers />
   </component>
