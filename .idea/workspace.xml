@@ -4,16 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3af9e47-c2d0-4e04-939a-af7d79b39622" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/exam/wanmei/Solution1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jcip/annotate/Immutable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jcip/chp4/DelegatingVehicleTracker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jcip/chp4/NumberRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jcip/chp4/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jcip/chp4/SafePoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/dp/back/BackPack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/search/binarySearch/P154_Search_RotatedSorted_III.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/search/binarySearch/P33_Search_RotatedSorted_I.java" afterDir="false" />
+    <list default="true" id="e3af9e47-c2d0-4e04-939a-af7d79b39622" name="Default Changelist" comment="&quot;P154 搜索旋转排序数组III&quot;">
+      <change afterPath="$PROJECT_DIR$/src/main/java/exam/didi/Problem1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exam/qunar/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exam/qunar/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jcip/chp4/BetterVector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jcip/chp4/ImprovedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jcip/chp4/ListHelper_Error.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jcip/chp4/ListHelper_Right.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jcip/chp5/FileCrawler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/Math/P202_HappyNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/heap/P264_NthUglyNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/set/P220_ContainsNearbyAlmostDuplicate_III.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/tree/Trie/P208_Trie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/tree/Trie/Trie.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../esapi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../esapi/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../foodiedev/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../foodiedev/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../foodiedev/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../foodiedev/.idea/encodings.xml" afterDir="false" />
@@ -204,7 +208,6 @@
       <change beforePath="$PROJECT_DIR$/../foodiedev/foodie-dev-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../foodiedev/foodie-dev-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../foodiedev/foodie-dev-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../foodiedev/foodie-dev-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../foodiedev/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../foodiedev/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -489,13 +492,13 @@
       <recent name="java7ConcurrentProgram.chp2.p3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P154_Search_RotatedSorted_III">
-    <configuration name="BackPack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.tag.dp.back.BackPack" />
+  <component name="RunManager" selected="Application.Trie">
+    <configuration name="P202_HappyNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.tag.Math.P202_HappyNumber" />
       <module name="javaproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.tag.dp.back.*" />
+          <option name="PATTERN" value="leetcode.tag.Math.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -503,12 +506,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetPrime_Multiply" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pearlsMore.chp1.GetPrime_Multiply" />
+    <configuration name="P220_ContainsNearbyAlmostDuplicate_III" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.tag.set.P220_ContainsNearbyAlmostDuplicate_III" />
       <module name="javaproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pearlsMore.chp1.*" />
+          <option name="PATTERN" value="leetcode.tag.set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -516,12 +519,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetPrime_Special235" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pearlsMore.chp1.GetPrime_Special235" />
+    <configuration name="Problem1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exam.didi.Problem1" />
       <module name="javaproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pearlsMore.chp1.*" />
+          <option name="PATTERN" value="exam.didi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -529,12 +532,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P154_Search_RotatedSorted_III" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.tag.search.binarySearch.P154_Search_RotatedSorted_III" />
+    <configuration name="Solution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exam.qunar.Solution2" />
       <module name="javaproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.tag.search.binarySearch.*" />
+          <option name="PATTERN" value="exam.qunar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -542,12 +545,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exam.wanmei.Solution1" />
+    <configuration name="Trie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.tag.tree.Trie.Trie" />
       <module name="javaproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exam.wanmei.*" />
+          <option name="PATTERN" value="leetcode.tag.tree.Trie.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -555,33 +558,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.GetPrime_Special235" />
-      <item itemvalue="Application.GetPrime_Multiply" />
-      <item itemvalue="Application.Solution1" />
-      <item itemvalue="Application.BackPack" />
-      <item itemvalue="Application.P154_Search_RotatedSorted_III" />
+      <item itemvalue="Application.P202_HappyNumber" />
+      <item itemvalue="Application.Problem1" />
+      <item itemvalue="Application.Solution2" />
+      <item itemvalue="Application.P220_ContainsNearbyAlmostDuplicate_III" />
+      <item itemvalue="Application.Trie" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.P154_Search_RotatedSorted_III" />
-        <item itemvalue="Application.BackPack" />
-        <item itemvalue="Application.Solution1" />
-        <item itemvalue="Application.GetPrime_Multiply" />
-        <item itemvalue="Application.GetPrime_Special235" />
+        <item itemvalue="Application.Trie" />
+        <item itemvalue="Application.P220_ContainsNearbyAlmostDuplicate_III" />
+        <item itemvalue="Application.Solution2" />
+        <item itemvalue="Application.Problem1" />
+        <item itemvalue="Application.P202_HappyNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -696,7 +697,12 @@
       <workItem from="1617670499652" duration="13062000" />
       <workItem from="1617763029277" duration="3720000" />
       <workItem from="1617868839244" duration="10484000" />
-      <workItem from="1617951693017" duration="1096000" />
+      <workItem from="1617951693017" duration="7165000" />
+      <workItem from="1618042683532" duration="3463000" />
+      <workItem from="1618142341017" duration="2149000" />
+      <workItem from="1618225926521" duration="3476000" />
+      <workItem from="1618640501600" duration="5900000" />
+      <workItem from="1618708838515" duration="5086000" />
     </task>
     <servers />
   </component>
@@ -748,6 +754,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;P154 搜索旋转排序数组III&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;P154 搜索旋转排序数组III&quot;" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
