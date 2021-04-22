@@ -5,19 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3af9e47-c2d0-4e04-939a-af7d79b39622" name="Default Changelist" comment="&quot;P154 搜索旋转排序数组III&quot;">
-      <change afterPath="$PROJECT_DIR$/src/main/java/exam/didi/Problem1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exam/qunar/Solution1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exam/qunar/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jcip/chp4/BetterVector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jcip/chp4/ImprovedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jcip/chp4/ListHelper_Error.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jcip/chp4/ListHelper_Right.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jcip/chp5/FileCrawler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/Math/P202_HappyNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/heap/P264_NthUglyNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/set/P220_ContainsNearbyAlmostDuplicate_III.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/tree/Trie/P208_Trie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/tree/Trie/Trie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_jopt_simple_jopt_simple_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math3_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjdk_jmh_jmh_core_1_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjdk_jmh_jmh_generator_annprocess_1_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algs4/chp1/Bag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algs4/chp1/In.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algs4/chp1/StdIn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algs4/chp1/StdOut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algs4/chp4/DepthFirstPaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algs4/chp4/DepthFirstSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algs4/chp4/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algs4/chp4/TestSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaSE/DataType/TestBasicType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaSE/extend/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaSE/extend/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaSE/extend/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaSE/extend/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaSE/extend/DImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/effectiveJava/p11/PhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jcip/chp5/BoundedHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jcip/chp5/Computable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jcip/chp5/ExpensiveFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jcip/chp5/Memoizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jcip/chp5/Memoizer3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jcip/chp5/Memorizer1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jcip/chp5/Memorizer2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jcip/chp5/Preloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jcip/chp5/ProductInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jcip/chp5/TestHarness.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jcip/consumerProducer/ProducerConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/array/P304_numMatrixs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/array/P363_maxSumSubmatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/dp/P91_numDecodings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/string/P28_strStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pearlsMore/chp1/TestJMH.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../esapi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../esapi/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../foodiedev/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../foodiedev/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../foodiedev/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../foodiedev/.idea/encodings.xml" afterDir="false" />
@@ -209,6 +231,9 @@
       <change beforePath="$PROJECT_DIR$/../foodiedev/foodie-dev-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../foodiedev/foodie-dev-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../foodiedev/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../foodiedev/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaproject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javaproject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/tag/tree/Trie/P211_WordDictionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/tree/Trie/P211_WordDictionary.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -462,7 +487,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/jcip" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/Algs4" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -474,11 +499,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dell\IdeaProjects\javaproject\src\main\java\Algs4" />
       <recent name="C:\Users\dell\IdeaProjects\javaproject\src\main\java\jcip" />
       <recent name="C:\Users\dell\IdeaProjects\javaproject\src\main\java\pearlsMore" />
       <recent name="C:\Users\dell\IdeaProjects\javaproject\src\main\java\SpringInternals" />
       <recent name="C:\Users\dell\IdeaProjects\javaproject\src\main\java\Netty" />
-      <recent name="C:\Users\dell\IdeaProjects\javaproject\src\main\java\pearls" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -492,13 +517,13 @@
       <recent name="java7ConcurrentProgram.chp2.p3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Trie">
-    <configuration name="P202_HappyNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.tag.Math.P202_HappyNumber" />
+  <component name="RunManager" selected="Application.P304_numMatrixs">
+    <configuration name="P28_strStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.tag.string.P28_strStr" />
       <module name="javaproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.tag.Math.*" />
+          <option name="PATTERN" value="leetcode.tag.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -506,12 +531,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P220_ContainsNearbyAlmostDuplicate_III" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.tag.set.P220_ContainsNearbyAlmostDuplicate_III" />
+    <configuration name="P304_numMatrixs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.tag.array.P304_numMatrixs" />
       <module name="javaproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.tag.set.*" />
+          <option name="PATTERN" value="leetcode.tag.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -519,12 +544,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exam.didi.Problem1" />
+    <configuration name="P91_numDecodings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.tag.dp.P91_numDecodings" />
       <module name="javaproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exam.didi.*" />
+          <option name="PATTERN" value="leetcode.tag.dp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -532,12 +557,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exam.qunar.Solution2" />
+    <configuration name="ProducerConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jcip.consumerProducer.ProducerConsumer" />
       <module name="javaproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exam.qunar.*" />
+          <option name="PATTERN" value="jcip.consumerProducer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -545,12 +570,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Trie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.tag.tree.Trie.Trie" />
+    <configuration name="TestBasicType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaSE.DataType.TestBasicType" />
       <module name="javaproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.tag.tree.Trie.*" />
+          <option name="PATTERN" value="JavaSE.DataType.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -558,31 +583,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.P202_HappyNumber" />
-      <item itemvalue="Application.Problem1" />
-      <item itemvalue="Application.Solution2" />
-      <item itemvalue="Application.P220_ContainsNearbyAlmostDuplicate_III" />
-      <item itemvalue="Application.Trie" />
+      <item itemvalue="Application.P28_strStr" />
+      <item itemvalue="Application.P91_numDecodings" />
+      <item itemvalue="Application.TestBasicType" />
+      <item itemvalue="Application.ProducerConsumer" />
+      <item itemvalue="Application.P304_numMatrixs" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Trie" />
-        <item itemvalue="Application.P220_ContainsNearbyAlmostDuplicate_III" />
-        <item itemvalue="Application.Solution2" />
-        <item itemvalue="Application.Problem1" />
-        <item itemvalue="Application.P202_HappyNumber" />
+        <item itemvalue="Application.P304_numMatrixs" />
+        <item itemvalue="Application.ProducerConsumer" />
+        <item itemvalue="Application.TestBasicType" />
+        <item itemvalue="Application.P91_numDecodings" />
+        <item itemvalue="Application.P28_strStr" />
       </list>
     </recent_temporary>
   </component>
@@ -702,7 +729,18 @@
       <workItem from="1618142341017" duration="2149000" />
       <workItem from="1618225926521" duration="3476000" />
       <workItem from="1618640501600" duration="5900000" />
-      <workItem from="1618708838515" duration="5086000" />
+      <workItem from="1618708838515" duration="6065000" />
+      <workItem from="1618719076450" duration="598000" />
+      <workItem from="1618728838940" duration="712000" />
+      <workItem from="1618730321279" duration="8586000" />
+      <workItem from="1618794644399" duration="6019000" />
+      <workItem from="1618881362901" duration="1295000" />
+      <workItem from="1618913821442" duration="9745000" />
+      <workItem from="1618930242139" duration="1953000" />
+      <workItem from="1618966042138" duration="2956000" />
+      <workItem from="1618995542477" duration="6583000" />
+      <workItem from="1619020488981" duration="2081000" />
+      <workItem from="1619052845375" duration="4763000" />
     </task>
     <servers />
   </component>
