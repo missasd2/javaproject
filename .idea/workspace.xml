@@ -5,69 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3af9e47-c2d0-4e04-939a-af7d79b39622" name="Default Changelist" comment="&quot;P154 搜索旋转排序数组III&quot;">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Algs4/chp4/BreadthFirstPaths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Algs4/chp4/CC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Algs4/chp4/Cycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Algs4/chp4/TwoColor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/Constructual/Decorator/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/Constructual/Decorator/DecoratorPatternDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/Constructual/Decorator/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/Constructual/Decorator/RedShapeDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/Constructual/Decorator/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/Constructual/Decorator/ShapeDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaSE/Collection/FailFast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaSE/Collection/Ordered/MyTreeSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaSE/Collection/Queue/MyArrayQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaSE/container/ContainerDiff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaSE/container/IDeque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaSE/container/IQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaSE/container/QueueMy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaSE/container/QueueMyImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaSE/extend/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaSE/extend/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaSE/object/PhoneNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MultiThread/MyServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MultiThread/MyTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MultiThread/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MultiThread/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MultiThread/TestMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MultiThread/TestMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MultiThread/testThreadPoolExecutor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cs/os/ThreadSync/Banker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/effectiveJava/p12/PhoneNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exam/beike/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exam/beike/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exam/beike/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exam/bianlifeng/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exam/bianlifeng/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exam/pdd/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exam/pdd/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jcip/chp5/MyThreadLocal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/leetcode/tag/binarySearch/P4_findMedianSortedArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/Math/P633_judgeSquareSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/algo/sort/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/algo/sort/QuickSort1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/array/P554_leastBricks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/backtrack/P1723_minimumTimeRequired.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/backtrack/P51_SolveNQueen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/bit/P1310_xorQueries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/datastructure/P225_list2Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/datastructure/P225_list2Stack_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/dp/P740_DeleteAndEarn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/dp/back/ZeroOneBackPack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/greedy/P12_int2Roman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/greedy/P12_int2Roman_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/greedy/P13_roman2Int.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/link/P25_reverseKGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/list/ArrayListSpliterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/list/TestArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/search/binarySearch/P1011_shipWithinDays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/slidingWindow/P76_SlidingWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/sort/quickSort/QuckSort_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/sort/quickSort/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/sort/quickSort/QuickSort_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/sort/quickSort/QuickSort_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/tree/Morris/TestMorris.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/bit/P1738_kthLargestValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/bit/P1738_kthLargestValue_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/dp/P1035_maxUncrossedLines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/dp/P72_minDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/topK/P692_topKFrequent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/topK/P692_topKFrequent_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/tree/Trie/P208_Trie_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/tree/Trie/Tries.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../esapi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../esapi/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../foodiedev/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../foodiedev/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../foodiedev/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../foodiedev/.idea/encodings.xml" afterDir="false" />
@@ -259,12 +204,7 @@
       <change beforePath="$PROJECT_DIR$/../foodiedev/foodie-dev-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../foodiedev/foodie-dev-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../foodiedev/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../foodiedev/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaproject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javaproject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algs4/chp4/DepthFirstPaths.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algs4/chp4/DepthFirstPaths.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/tag/tree/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/tree/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algs4/chp4/DepthFirstPaths.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Algs4/chp4/DepthFirstPaths.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/BenchmarkList" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/BenchmarkList" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/tag/tree/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/tag/tree/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/tag/bit/P421_findMaximumXOR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/bit/P421_findMaximumXOR.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -548,7 +488,7 @@
       <recent name="java7ConcurrentProgram.chp2.p3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P4_findMedianSortedArrays">
+  <component name="RunManager" selected="Application.P1738_kthLargestValue_1">
     <configuration name="P12_int2Roman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.tag.greedy.P12_int2Roman" />
       <module name="javaproject" />
@@ -575,6 +515,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P1738_kthLargestValue_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.tag.bit.P1738_kthLargestValue_1" />
+      <module name="javaproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.tag.bit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P208_Trie_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.tag.tree.Trie.P208_Trie_1" />
+      <module name="javaproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.tag.tree.Trie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="P4_findMedianSortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.leetcode.tag.binarySearch.P4_findMedianSortedArrays" />
       <module name="javaproject" />
@@ -588,57 +554,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSort1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.tag.algo.sort.QuickSort1" />
-      <module name="javaproject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.tag.algo.sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exam.bianlifeng.Test1" />
-      <module name="javaproject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exam.bianlifeng.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.QuickSort1" />
-      <item itemvalue="Application.Test1 (1)" />
       <item itemvalue="Application.P12_int2Roman" />
       <item itemvalue="Application.P12_int2Roman_1" />
       <item itemvalue="Application.P4_findMedianSortedArrays" />
+      <item itemvalue="Application.P208_Trie_1" />
+      <item itemvalue="Application.P1738_kthLargestValue_1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P1738_kthLargestValue_1" />
+        <item itemvalue="Application.P208_Trie_1" />
         <item itemvalue="Application.P4_findMedianSortedArrays" />
         <item itemvalue="Application.P12_int2Roman_1" />
         <item itemvalue="Application.P12_int2Roman" />
-        <item itemvalue="Application.Test1 (1)" />
-        <item itemvalue="Application.QuickSort1" />
       </list>
     </recent_temporary>
   </component>
@@ -796,7 +725,14 @@
       <workItem from="1620960023378" duration="4999000" />
       <workItem from="1621067472335" duration="595000" />
       <workItem from="1621084243663" duration="1875000" />
-      <workItem from="1621125991621" duration="595000" />
+      <workItem from="1621125991621" duration="7133000" />
+      <workItem from="1621150167782" duration="591000" />
+      <workItem from="1621267464832" duration="591000" />
+      <workItem from="1621386111066" duration="1344000" />
+      <workItem from="1621484512374" duration="687000" />
+      <workItem from="1621500021557" duration="4302000" />
+      <workItem from="1621559282865" duration="840000" />
+      <workItem from="1621563778522" duration="2129000" />
     </task>
     <servers />
   </component>
