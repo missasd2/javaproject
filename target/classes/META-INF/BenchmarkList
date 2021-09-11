@@ -1,4 +1,4 @@
 JMH S 23 pearlsMore.chp1.TestJMH S 59 pearlsMore.chp1.jmh_generated.TestJMH_builderAppend_jmhTest S 13 builderAppend S 11 AverageTime E A 1 1 1 E I 1 3 E E I 1 5 E E I 1 1 E E E E E E U 12 MILLISECONDS E E 
+JMH S 23 pearlsMore.chp1.TestJMH S 57 pearlsMore.chp1.jmh_generated.TestJMH_getMinMax_2_jmhTest S 11 getMinMax_2 S 11 AverageTime E A 1 1 1 E I 1 3 E E I 1 5 E E I 1 1 E E E E E E U 12 MILLISECONDS E E 
 JMH S 23 pearlsMore.chp1.TestJMH S 57 pearlsMore.chp1.jmh_generated.TestJMH_getMinMax_1_jmhTest S 11 getMinMax_1 S 11 AverageTime E A 1 1 1 E I 1 3 E E I 1 5 E E I 1 1 E E E E E E U 12 MILLISECONDS E E 
 JMH S 23 pearlsMore.chp1.TestJMH S 55 pearlsMore.chp1.jmh_generated.TestJMH_stringAdd_jmhTest S 9 stringAdd S 11 AverageTime E A 1 1 1 E I 1 3 E E I 1 5 E E I 1 1 E E E E E E U 12 MILLISECONDS E E 
-JMH S 23 pearlsMore.chp1.TestJMH S 57 pearlsMore.chp1.jmh_generated.TestJMH_getMinMax_2_jmhTest S 11 getMinMax_2 S 11 AverageTime E A 1 1 1 E I 1 3 E E I 1 5 E E I 1 1 E E E E E E U 12 MILLISECONDS E E 
