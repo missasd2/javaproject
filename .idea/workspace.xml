@@ -5,31 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3af9e47-c2d0-4e04-939a-af7d79b39622" name="Default Changelist" comment="&quot;P154 搜索旋转排序数组III&quot;">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/leetcode/tag/sim/P1221balancedStringSplit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/array/P1646_Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/tag/array/P457_CircularArrayLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Arquillian_JUnit_Release.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Arquillian_JUnit_Release.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaproject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javaproject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algs4/chp1/Bag$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algs4/chp1/Bag$ListIterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algs4/chp1/Bag$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algs4/chp1/Bag.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algs4/chp1/In.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algs4/chp1/StdIn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algs4/chp1/StdOut.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algs4/chp4/BreadthFirstPaths.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algs4/chp4/CC.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algs4/chp4/Cycle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algs4/chp4/DepthFirstPaths.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algs4/chp4/DepthFirstSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algs4/chp4/Graph.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algs4/chp4/TestSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algs4/chp4/TwoColor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/BenchmarkList" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/BenchmarkList" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/tag/bit/P1738_kthLargestValue_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/tag/bit/P1738_kthLargestValue_1.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -379,19 +355,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.P208_Trie_1" />
       <item itemvalue="Application.P1738_kthLargestValue_1" />
@@ -578,6 +541,8 @@
       <workItem from="1629422757474" duration="650000" />
       <workItem from="1629651046263" duration="591000" />
       <workItem from="1630975191208" duration="2080000" />
+      <workItem from="1631335835670" duration="204000" />
+      <workItem from="1632022245754" duration="297000" />
     </task>
     <servers />
   </component>
